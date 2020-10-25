@@ -6,7 +6,7 @@
     "start": "node ./server.js"
   },
   "engines": {
-    "node": "^12.00.",
+    "node": "^12.19.0.",
     "npm": "^6.0.0"
   },
   "dependencies": {
@@ -37,3 +37,4 @@
     "@types/passport-local-mongoose": "^4.0.13"
   }
 }
+
